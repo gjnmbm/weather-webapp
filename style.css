@@ -1,0 +1,17 @@
+body {
+    background-image: url('Images/weatherApplication.jpg');
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+img {
+    width: 100px;
+    border: 10px solid rgb(104, 144, 205);
+}
+
+h1, p {
+    font-family: 'Merriweather';
+    font-size: 15;
+    color: rgb(0,0,0);
+}
